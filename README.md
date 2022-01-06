@@ -1,2 +1,2 @@
-# CeaPipe
+# cea-pipe
 C socket pipeline.
